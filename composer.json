@@ -1,0 +1,19 @@
+{
+    "name": "rndoom04/example",
+    "description": "A example-template library for PHP.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Slavomí­r Kollert",
+            "email": "info@kollertslavomir.cz"
+        }
+    ],
+    "require": {
+            "php": ">=7.0"
+    },
+    "autoload": {
+        "files": [ "src/example.php" ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
