@@ -1,18 +1,18 @@
 {
-    "name": "rndoom04/example",
-    "description": "A example-template library for PHP.",
+    "name": "rndoom04/slevomat",
+    "description": "",
     "license": "MIT",
     "authors": [
         {
-            "name": "Slavomí­r Kollert",
+            "name": "Slavomír Kollert",
             "email": "info@kollertslavomir.cz"
         }
     ],
     "require": {
-            "php": ">=7.0"
+            "php": ">=7.4"
     },
     "autoload": {
-        "files": [ "src/example.php" ]
+        "files": [ "src/slevomat.php" ]
     },
     "minimum-stability": "dev",
     "prefer-stable": true

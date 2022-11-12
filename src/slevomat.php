@@ -1,13 +1,13 @@
 <?php
     /*
-     * Example library for PHP by Kollert Slavomí­r
+     * Example library for PHP by Kollert Slavomír
      * version: 1.0
-     * release date: 2.6.2022
+     * release date: 12.11.2022
      */
 
-    namespace Rndoom04\example;
+    namespace Rndoom04\slevomat;
 
-    class example {
+    class slevomat {
         // Example variable
         private $example = null;
         
